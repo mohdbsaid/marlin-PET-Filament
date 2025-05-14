@@ -1,22 +1,25 @@
-# PET Filament Marlin Firmware 🧵🔥
+# PET Filament Firmware - Marlin
 
-Custom Marlin firmware configured for a PET filament extrusion machine using:
-- **MKS SGEN L V1.0**
-- **MKS MINI12864 V2.1 LCD**
-- Custom **heater & thermistor**
-- Motor control via extruder (E-axis)
+⚙️ Firmware for PET filament extrusion machine using Marlin, customized for:
+- MKS SGEN L V1.0 Board
+- MKS MINI12864 V2.1 Display
+- TMC2209 Driver
+- Single Stepper Motor (Extruder)
+- Hotend with Heater and Thermistor
 
-## Features
-- Quick menu for:  
-  - Heating to 235°C  
-  - Starting motor extrusion  
-  - Fan control  
-- Custom branding on LCD: **"عُمان للإبحار"**
+📟 Custom menu includes:
+- Heat to 235°C
+- Start continuous motor feed
+- Turn on fan
 
-## Usage
-Flash this firmware to your 3D printer controller using PlatformIO or your preferred uploader.  
-Use the LCD menu to control motor, temperature, and fan.
+📁 All STL files and mechanical designs:
+👉 Available at [function3d/petalot](https://github.com/function3d/petalot)
 
 ---
 
-> Developed by [@mohdbsaid](https://github.com/mohdbsaid) – Powered by the PETALOT project.
+🛠️ Status: In Development  
+🔁 Last Update: May 2025  
+💡 Author: Mohammed bin Saeed
+
+
+> Developed by [@mohdbsaid](https://github.com/mohdbsaid)
